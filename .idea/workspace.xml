@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e1833b7-a89d-44ce-a30c-befe65a8813e" name="Default Changelist" comment="" />
+    <list default="true" id="1e1833b7-a89d-44ce-a30c-befe65a8813e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/MyStudy/permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/permute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +29,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="java" value="37" />
+          <entry key="java" value="39" />
           <entry key="md" value="3" />
           <entry key="xml" value="1" />
         </counts>
@@ -32,24 +37,24 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="37" />
+          <entry key="JAVA" value="39" />
           <entry key="Markdown" value="3" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="1" />
-          <entry key="java" value="3313" />
+          <entry key="dummy" value="8" />
+          <entry key="java" value="3379" />
           <entry key="md" value="247" />
           <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3313" />
+          <entry key="JAVA" value="3379" />
           <entry key="Markdown" value="247" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="7" />
         </counts>
       </usages-collector>
@@ -57,30 +62,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/mode/proxy/diyproxy/note.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/mode/proxy/diyproxy/MyProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="88" selection-start-line="88" selection-end-line="88" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/mode/proxy/diyproxy/$Proxy0.class">
           <provider selected="true" editor-type-id="text-editor" />
@@ -131,11 +112,39 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/EasyFullPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="258">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/MyStudy/permute.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#214#223#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/permute.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-388">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#247#256#0" expanded="true" />
+                <element signature="e#1190#1191#0" expanded="true" />
+                <element signature="e#1227#1228#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -169,7 +178,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/study-java-2019" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -199,6 +208,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/mode/proxy/diyproxy/TimeHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/mode/proxy/note.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/EasyFullPermutation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/MyStudy/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/MyStudy/permute.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/permute.java" />
       </list>
     </option>
   </component>
@@ -221,10 +234,10 @@
     <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="2054" />
-    <option name="y" value="417" />
-    <option name="width" value="784" />
-    <option name="height" value="586" />
+    <option name="x" value="242" />
+    <option name="y" value="-8" />
+    <option name="width" value="980" />
+    <option name="height" value="733" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -273,6 +286,26 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="MyStudy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
@@ -433,10 +466,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572541522249" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572602655441" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProject\2019\studyjava2019\src\main\java\com\algorithm\leetcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProject\2019\studyjava2019\src\main\java\com\algorithm\MyStudy" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -557,7 +598,7 @@
       <updated>1572429764412</updated>
       <workItem from="1572429768714" duration="15389000" />
       <workItem from="1572496215241" duration="26183000" />
-      <workItem from="1572597430639" duration="599000" />
+      <workItem from="1572597430639" duration="1215000" />
     </task>
     <servers />
   </component>
@@ -594,13 +635,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42171000" />
+    <option name="totallyTimeSpent" value="42787000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="182" width="1296" height="776" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32605177" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27010724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -614,7 +654,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5404531" side_tool="true" visible="true" weight="0.4034268" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5404531" side_tool="true" visible="true" weight="0.36685553" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4175603" weight="0.32107496" />
@@ -832,8 +872,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/EasyFullPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="258">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/permute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-388">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#256#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/MyStudy/permute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#214#223#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
