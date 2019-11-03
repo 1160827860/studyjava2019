@@ -5,14 +5,13 @@ import com.imooc.reflex.Person;
 public class Student  extends Person {
 
     String school;
-
     @Override
-    public String toString() {
-        return "Student{" +
+    public void print() {
+        System.out.println("Student{" +
                 "school='" + school + '\'' +
                 ", name='" + name + '\'' +
                 ", email='" + email + '\'' +
-                '}';
+                '}');
     }
 
     public Student() {

@@ -8,13 +8,13 @@ public class Person {
     public Person() {
     }
 
-    @Override
-    public String toString() {
-        return "Person{" +
+
+    public void print() {
+        System.out.println("Person{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", email='" + email + '\'' +
-                '}';
+                '}');
     }
 
     public Person(String name, int age, String email) {
