@@ -15,7 +15,6 @@ public class test {
      * 加载类的方式分为：
      * 静态加载：编译得时候加载可能要用到得类
      * 动态加载：运行时再加载
-     *
      */
 
     /**
@@ -67,14 +66,24 @@ public class test {
      */
     @Test
     public void test2() throws ClassNotFoundException {
+        /**
+         * 说明每一个类中都有一个class静态变量
+         */
         Class s = Student.class;
 
+        /**
+         * 每一个对象中可以调用getClass()方法获取本对象Class
+         */
         Student a =new Student();
 
         Class s1 = a.getClass();
-
+        /**
+         * 知道类的路径可以使用Class的静态方法来获取类
+         */
         Class s2 = Class.forName("com.imooc.reflex.Student");
-
+        /**
+         * 三种方法获取的类的类对象都是一样的
+         */
         System.out.println(s1 == s2);
 
         System.out.println(s2 == s);
