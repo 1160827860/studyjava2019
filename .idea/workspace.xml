@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e1833b7-a89d-44ce-a30c-befe65a8813e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/reflet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question/junit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/reflect/使用反射调用方法.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/reflect/跳过泛型.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/S(Y[KRRC8X[@O5)UV`U5FUX.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/reflect/动态加载和静态加载.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/EasyFullPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/MyStudy/permute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/permute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/github/Branch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/github/TestMerger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/reflet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/reflex/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/question/junit.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -76,96 +76,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/github/Branch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/reflex/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="41" column="26" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/reflex/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="145" selection-start-line="145" selection-end-line="145" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2044#2053#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/reflect/使用反射调用方法.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/reflect/跳过泛型.png">
           <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/reflex/reflet.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="17">
-                <caret line="1" selection-start-line="1" selection-end-line="15" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/question/junit.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="14" selection-start-column="14" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/EasyFullPermutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/reflect/动态加载和静态加载.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/reflex/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="15" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -266,6 +179,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="studyjava2019" type="58d84e3e:PackageViewProjectNode" />
+              <item name="studyjava2019" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="58d84e3e:PackageViewProjectNode" />
+              <item name="studyjava2019" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -375,42 +304,7 @@
               <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc" type="462c0819:PsiDirectoryNode" />
-              <item name="reflex" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
@@ -447,22 +341,6 @@
             <path>
               <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="studyjava2019" type="58d84e3e:PackageViewProjectNode" />
-              <item name="studyjava2019" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="58d84e3e:PackageViewProjectNode" />
-              <item name="studyjava2019" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -651,7 +529,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73714000" />
+    <option name="totallyTimeSpent" value="73737000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -663,10 +541,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="1" />
-    <editor active="true" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22130014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5228216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -680,7 +557,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4979253" weight="0.3295129" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2406639" side_tool="true" visible="true" weight="0.42550144" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2406639" side_tool="true" visible="true" weight="0.16762178" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49930844" weight="0.3295129" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.41689008" weight="0.3201133" />
@@ -863,9 +740,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/mode/proxy/diyproxy/$Proxy0.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/mode/proxy/diyproxy/$Proxy0.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/mode/proxy/diyproxy/InvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -941,10 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -952,7 +823,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <caret column="29" selection-start-column="29" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
@@ -964,9 +835,6 @@
           <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/reflect/跳过泛型.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/reflect/动态加载和静态加载.png">
       <provider selected="true" editor-type-id="images" />
@@ -994,7 +862,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/reflex/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="561">
           <caret line="41" column="26" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="26" />
         </state>
       </provider>
@@ -1014,14 +882,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/reflex/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="145" selection-start-line="145" selection-end-line="145" />
+        <state relative-caret-position="230">
+          <caret line="124" selection-start-line="123" selection-end-line="124" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2044#2053#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/reflect/跳过泛型.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
