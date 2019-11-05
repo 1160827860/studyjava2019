@@ -1,4 +1,5 @@
-package com.imooc.reflex;
+import com.imooc.reflex.Person;
+import com.imooc.reflex.Student;
 import org.junit.jupiter.api.Test;
 import org.junit.*;
 import org.omg.CORBA.OBJ_ADAPTER;
