@@ -25,8 +25,6 @@ public class test {
      */
     @Test
     public void test(){
-
-
         String chose = "Student";
         if(chose.equals("Person")){
             Person p = new Person();
