@@ -34,6 +34,7 @@ class person implements Serializable{
 	transient String name;
 	static String conturny;
  	int age;
+ 	@Override
  	public String toString() {
  		return "person" + name + conturny + age;
  	}

@@ -1,4 +1,4 @@
-package com.darksouls.io;
+package com.darksouls.io.bio;
 
 import java.io.File;
 import java.io.FileOutputStream;

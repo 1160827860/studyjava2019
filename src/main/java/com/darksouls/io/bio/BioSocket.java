@@ -1,4 +1,4 @@
-package com.darksouls.io;
+package com.darksouls.io.bio;
 
 import java.io.BufferedReader;
 import java.io.IOException;

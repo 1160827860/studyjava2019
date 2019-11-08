@@ -2,83 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e1833b7-a89d-44ce-a30c-befe65a8813e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/BioServerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/BioSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/BufferStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/BufferedStreamDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/DateInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/FileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/FileInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/FileWriteStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/ObjectStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/PrintWriteDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/WriteAndRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/bio/CicleClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/bio/CicleRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/bio/CicleServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/bio/MuilCicleServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/nio/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/IP地址无效化1108.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/Nim游戏292.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/findAllNumbersDisappearedInAnArray448.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/permute.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/两个数组的交集349.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/两数之和II输入有序数组167.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/买卖股票的最佳时机121.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/买卖股票的最佳时机II122.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/二进制求和67.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/亲密字符串859.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/全排列46.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/全排列4l6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/公交站间的距离1184.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/删除排序数组中的重复项26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/删除最外层的括号1021.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/加一66.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/十进制整数的补码1012.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/反转字符串中的元音字母345.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/反转字符串中的单词III557.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/唯一摩尔斯密码词804.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/在D天内送达包裹的能力1014.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/复写零1089.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/完美数507.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/山羊拉丁文824.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/总持续时间可被整除的歌曲1013.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/打家劫舍198.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/托普利茨矩阵766.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/拼写单词1160.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/按奇偶排序数组905.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/按奇偶排序数组II922.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/数字的补数476.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/数组中的Kdiff数对532.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/数组形式的整数加法989.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/数组的相对排序1122.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/整数反转7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/最后一个单词的长度58.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/最大子序和53.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/最小差值I908.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/最短无序连续子数组581.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/杨辉三角II119.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/查找常用字符1002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/查询后的偶数和985.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/棒球比赛682.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/比较字符串最小字母出现频次1170.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/猜数字大小374.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/玩筹码1217.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/盛最多水的容器11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/移动零283.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/移除元素27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/翻转图像832.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/自除数728.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/至少有1位重复的数字1015.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/车的可用捕获量999.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/转置矩阵867.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/重塑矩阵566.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/键盘行500.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/除数博弈1025.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/高度检查器1051.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/darksouls/io/BufferStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/BufferStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/darksouls/io/ObjectStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/io/ObjectStream.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -103,30 +29,30 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="java" value="51" />
-          <entry key="md" value="5" />
+          <entry key="java" value="69" />
+          <entry key="md" value="7" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="51" />
-          <entry key="Markdown" value="5" />
+          <entry key="JAVA" value="69" />
+          <entry key="Markdown" value="7" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="3415" />
+          <entry key="java" value="3418" />
           <entry key="md" value="247" />
           <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3415" />
+          <entry key="JAVA" value="3418" />
           <entry key="Markdown" value="247" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="7" />
@@ -139,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/BufferStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-24">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="340">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,10 +75,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/DateInputStream.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/BioServerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+            <state relative-caret-position="136">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/BioSocket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/BufferedStreamDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -160,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/FileDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="362">
+              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -169,36 +125,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/FileInputStreamDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="-12">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/FileWriteStreamDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/note.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/ObjectStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -213,20 +141,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/WriteAndRead.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/ObjectStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="345">
+              <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/nio/note.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/WriteAndRead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -279,6 +206,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/github/Branch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/darksouls/io/BioSocket.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/darksouls/io/BufferStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/darksouls/io/ObjectStream.java" />
       </list>
     </option>
   </component>
@@ -300,10 +228,11 @@
   <component name="MavenRunner">
     <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="876" />
-    <option name="width" value="1053" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="190" />
+    <option name="width" value="656" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -454,7 +383,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573206766837" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573219255019" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -625,13 +554,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45102000" />
+    <option name="totallyTimeSpent" value="52292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="190" width="656" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.52516776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -645,7 +574,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5404531" side_tool="true" visible="true" weight="0.16430596" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5404531" side_tool="true" visible="true" weight="0.1829653" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4175603" weight="0.32107496" />
@@ -797,56 +726,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/按奇偶排序数组II922.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/BioServerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/BioSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/BufferedStreamDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/DateInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/FileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/FileInputStreamDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/FileWriteStreamDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/note.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/nio/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -854,10 +734,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/DateInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/FileWriteStreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/FileInputStreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/FileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/ObjectStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        <state relative-caret-position="345">
+          <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -870,23 +778,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/WriteAndRead.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="308">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/nio/note.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor>
+            <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+          </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/BioServerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/BioSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/BufferedStreamDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/io/BufferStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        <state relative-caret-position="340">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

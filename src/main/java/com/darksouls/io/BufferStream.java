@@ -23,12 +23,8 @@ public class BufferStream {
 				 str = br.readLine();
 				 System.out.println(str);
 			}
-	
-		
-		
 			br.close();
 			r.close();
-			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
