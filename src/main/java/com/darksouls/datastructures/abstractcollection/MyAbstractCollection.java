@@ -107,7 +107,7 @@ public  abstract    class MyAbstractCollection<T> implements MyCollection<T> {
     /**
      * 将集合转为数组
      * 使用方法为：
-     * LinkedList<String> a = new LinkedList();
+     * MyLinkedList<String> a = new MyLinkedList();
      * a.add("a");
      * String[] tp = a.toArray(new String[0]);
      *
@@ -124,31 +124,31 @@ public  abstract    class MyAbstractCollection<T> implements MyCollection<T> {
      *jdk中还要考虑元素少于size()的情况、还有集合中元素大于size()的情况
      * @return
      */
-    @Override
-    public Object[] toArray() {
-        Object[] o = new  Object[size()];
-        Iterator<T> it = iterator();
-        for(int i = 0 ;i < o.length;i ++){
-            while (it.hasNext()){
-                if(! it.hasNext()){
-                    return Arrays.copyOf(o,i);
-                }
-                o[i] = it.next();
-            }
-        }
-        return it.hasNext() ? finishToArray(o,it) : o;
-    }
-
-    /**
-     * 由于集合中元素大于size()，所以调用finishToArray来对集合中剩余的元
-     * 素放入数组之中
-     * @param o size()大小的数组
-     * @param it 集合的迭代器
-     * @return 返回集合中包含所有元素的数组
-     */
-    public static  <T> T[] finishToArray(T[] o,Iterator<?> it){
-
-    }
+//    @Override
+//    public Object[] toArray() {
+//        Object[] o = new  Object[size()];
+//        Iterator<T> it = iterator();
+//        for(int i = 0 ;i < o.length;i ++){
+//            while (it.hasNext()){
+//                if(! it.hasNext()){
+//                    return Arrays.copyOf(o,i);
+//                }
+//                o[i] = it.next();
+//            }
+//        }
+//        return it.hasNext() ? finishToArray(o,it) : o;
+//    }
+//
+//    /**
+//     * 由于集合中元素大于size()，所以调用finishToArray来对集合中剩余的元
+//     * 素放入数组之中
+//     * @param o size()大小的数组
+//     * @param it 集合的迭代器
+//     * @return 返回集合中包含所有元素的数组
+//     */
+//    public static  <T> T[] finishToArray(T[] o,Iterator<?> it){
+//
+//    }
     /**
      * 返回集合中元素的迭代器
      *

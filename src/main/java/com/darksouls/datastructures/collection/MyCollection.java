@@ -70,7 +70,7 @@ public interface MyCollection<T>  extends Iterable<T>{
     /**
      *将集合转为数组
      * 使用方法为：
-     *    LinkedList<String> a = new LinkedList();
+     *    MyLinkedList<String> a = new MyLinkedList();
      *    a.add("a");
      *    String[] tp = a.toArray(new String[0]);
      *
