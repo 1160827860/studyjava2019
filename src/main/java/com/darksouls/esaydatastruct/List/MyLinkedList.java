@@ -8,11 +8,19 @@ public class MyLinkedList<E> extends AbstractSequentialList<E>
     /**
      *  first 头节点
      * last 尾节点
-     *
+     * size是元素中的个数
      */
     transient Node<E> first;
     transient Node<E> last;
     transient int size = 0;
+
+    /**
+     * 内部类Node
+     * @param <E> 此类型的变量
+     *  element 存储 E类型的变量
+     *  prev 前一个节点
+     *  last 后一个节点
+     */
     private static class Node<E>{
         E element;
         Node<E> prev;
@@ -63,11 +71,20 @@ public class MyLinkedList<E> extends AbstractSequentialList<E>
      * sequence)
      * @throws IndexOutOfBoundsException {@inheritDoc}
      */
+    /**
+     * 返回迭代器
+     * @param index
+     * @return
+     */
     @Override
     public ListIterator<E> listIterator(int index) {
         checkPositionIndex(index);
         return new ListItr(index);
     }
+
+    /**
+     * 实现迭代器
+     */
     private class ListItr implements ListIterator{
         private Node<E> lastReturned;
         private Node<E> next;

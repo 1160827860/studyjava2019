@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e1833b7-a89d-44ce-a30c-befe65a8813e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/node.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/数据结构/LinkedList的继承结构.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/数据结构/选中的为抽象方法，未选中的为默认方法.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/imooc/mode/proxy/diyproxy/$Proxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/darksouls/datastructures/abstractcollection/MyAbstractCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/datastructures/abstractcollection/MyAbstractCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/darksouls/datastructures/collection/MyCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/datastructures/collection/MyCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/MyLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,23 +18,24 @@
     <session id="-1224518890">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.39" value="2" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Collection" value="1" />
           <entry key="LinkedList" value="1" />
-          <entry key="class" value="9" />
-          <entry key="java" value="117" />
+          <entry key="class" value="11" />
+          <entry key="java" value="134" />
           <entry key="md" value="7" />
           <entry key="png" value="5" />
           <entry key="txt" value="1" />
@@ -50,9 +44,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="9" />
+          <entry key="CLASS" value="11" />
           <entry key="Image" value="5" />
-          <entry key="JAVA" value="117" />
+          <entry key="JAVA" value="134" />
           <entry key="Markdown" value="7" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="UML" value="2" />
@@ -62,7 +56,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="30" />
-          <entry key="java" value="9169" />
+          <entry key="java" value="9345" />
           <entry key="md" value="675" />
           <entry key="txt" value="2" />
           <entry key="xml" value="7" />
@@ -70,7 +64,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9173" />
+          <entry key="JAVA" value="9349" />
           <entry key="Markdown" value="671" />
           <entry key="PLAIN_TEXT" value="32" />
           <entry key="XML" value="7" />
@@ -79,96 +73,60 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/MyLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="301" column="33" selection-start-line="301" selection-start-column="33" selection-end-line="301" selection-end-column="33" />
-              <folding>
-                <element signature="e#637#638#0" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
-                <element signature="e#802#803#0" expanded="true" />
-                <element signature="e#837#838#0" expanded="true" />
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#922#923#0" expanded="true" />
-                <element signature="e#958#959#0" expanded="true" />
-                <element signature="e#993#994#0" expanded="true" />
-                <element signature="e#1038#1039#0" expanded="true" />
-                <element signature="e#1078#1079#0" expanded="true" />
-                <element signature="e#2248#2249#0" expanded="true" />
-                <element signature="e#2284#2285#0" expanded="true" />
-                <element signature="e#2864#2865#0" expanded="true" />
-                <element signature="e#2899#2900#0" expanded="true" />
-                <element signature="e#3400#3401#0" expanded="true" />
-                <element signature="e#3436#3437#0" expanded="true" />
-                <element signature="e#4100#4101#0" expanded="true" />
-                <element signature="e#4135#4136#0" expanded="true" />
-                <element signature="e#4605#4606#0" expanded="true" />
-                <element signature="e#4637#4638#0" expanded="true" />
-                <element signature="e#5117#5118#0" expanded="true" />
-                <element signature="e#5149#5150#0" expanded="true" />
-                <element signature="e#1877#1878#0" expanded="true" />
-                <element signature="e#1927#1928#0" expanded="true" />
-                <element signature="e#2185#2186#0" expanded="true" />
-                <element signature="e#2239#2240#0" expanded="true" />
-                <element signature="e#4898#4899#0" expanded="true" />
-                <element signature="e#4958#4959#0" expanded="true" />
-                <element signature="e#5955#5956#0" expanded="true" />
-                <element signature="e#5983#5984#0" expanded="true" />
-                <element signature="e#6976#6977#0" expanded="true" />
-                <element signature="e#7004#7005#0" expanded="true" />
-                <element signature="e#7361#7362#0" expanded="true" />
-                <element signature="e#7388#7389#0" expanded="true" />
-                <element signature="e#7741#7742#0" expanded="true" />
-                <element signature="e#7768#7769#0" expanded="true" />
-                <element signature="e#8028#8029#0" expanded="true" />
-                <element signature="e#8055#8056#0" expanded="true" />
-                <element signature="e#8313#8314#0" expanded="true" />
-                <element signature="e#8340#8341#0" expanded="true" />
-                <element signature="e#9246#9247#0" expanded="true" />
-                <element signature="e#9273#9274#0" expanded="true" />
-                <element signature="e#9543#9544#0" expanded="true" />
-                <element signature="e#9570#9571#0" expanded="true" />
-                <element signature="e#9838#9839#0" expanded="true" />
-                <element signature="e#9865#9866#0" expanded="true" />
-                <element signature="e#11057#11058#0" expanded="true" />
-                <element signature="e#11085#11086#0" expanded="true" />
-                <element signature="e#12274#12275#0" expanded="true" />
-                <element signature="e#12302#12303#0" expanded="true" />
-                <element signature="e#13557#13558#0" expanded="true" />
-                <element signature="e#13585#13586#0" expanded="true" />
-                <element signature="e#14094#14095#0" expanded="true" />
-                <element signature="e#14121#14122#0" expanded="true" />
-                <element signature="e#14533#14534#0" expanded="true" />
-                <element signature="e#14560#14561#0" expanded="true" />
-                <element signature="e#15077#15078#0" expanded="true" />
-                <element signature="e#15104#15105#0" expanded="true" />
-                <element signature="e#15542#15543#0" expanded="true" />
-                <element signature="e#15569#15570#0" expanded="true" />
-                <element signature="e#17120#17121#0" expanded="true" />
-                <element signature="e#17147#17148#0" expanded="true" />
-                <element signature="e#17186#17187#0" expanded="true" />
-                <element signature="e#17213#17214#0" expanded="true" />
-                <element signature="e#17559#17560#0" expanded="true" />
-                <element signature="e#17586#17587#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractCollection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="462" column="31" lean-forward="true" selection-start-line="462" selection-start-column="31" selection-end-line="462" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.47441217">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/MyLinkedList.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="104">
+                  <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+                  <folding>
+                    <element signature="e#853#854#0" expanded="true" />
+                    <element signature="e#899#900#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="844" column="2" selection-start-line="844" selection-start-column="2" selection-end-line="864" selection-end-column="7" />
+                  <folding>
+                    <element signature="e#11209#11210#0" expanded="true" />
+                    <element signature="e#11247#11248#0" expanded="true" />
+                    <element signature="e#16099#16100#0" expanded="true" />
+                    <element signature="e#16149#16150#0" expanded="true" />
+                    <element signature="e#16416#16417#0" expanded="true" />
+                    <element signature="e#16470#16471#0" expanded="true" />
+                    <element signature="e#26756#26757#0" expanded="true" />
+                    <element signature="e#26803#26804#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -281,10 +239,11 @@
   <component name="MavenRunner">
     <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="925" />
-    <option name="width" value="1003" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1999" />
+    <option name="y" value="182" />
+    <option name="width" value="782" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -294,85 +253,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="darksouls" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="darksouls" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="darksouls" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -468,12 +348,92 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="darksouls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="darksouls" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="darksouls" type="462c0819:PsiDirectoryNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava2019" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573925755856" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573968793836" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/FirstJdbc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
@@ -510,7 +470,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyLinkedList (1)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.darksouls.esaydatastruct.List.Main" />
       <module name="studyjava2019" />
@@ -582,8 +542,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyLinkedList (1)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.MyLinkedList (1)" />
         <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.test.test4" />
@@ -611,6 +571,8 @@
       <workItem from="1573200511088" duration="2249000" />
       <workItem from="1573297150192" duration="16353000" />
       <workItem from="1573354636466" duration="14399000" />
+      <workItem from="1573962206782" duration="3123000" />
+      <workItem from="1574003152808" duration="1283000" />
     </task>
     <servers />
   </component>
@@ -647,7 +609,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133914000" />
+    <option name="totallyTimeSpent" value="138538000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -659,10 +621,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="1912" y="182" width="1296" height="776" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15616623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19902913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -672,11 +634,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49663678" weight="0.3295129" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74731904" weight="0.41784704" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.44772118" visible="true" weight="0.33569404" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.44674966" visible="true" weight="0.33954155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4979253" weight="0.3295129" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5522788" side_tool="true" visible="true" weight="0.33569404" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5532504" side_tool="true" visible="true" weight="0.36915886" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49930844" weight="0.3295129" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.41493776" weight="0.31948423" />
@@ -739,16 +701,16 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/Main.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/MyLinkedList.java</url>
-          <line>301</line>
+          <line>318</line>
           <properties />
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/Main.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -811,7 +773,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="53.5" y="56.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="54.0" y="56.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -849,7 +811,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="267.5" y="258.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="268.0" y="259.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -878,14 +840,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/note.md" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/Serializable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1982">
@@ -928,10 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="308" column="26" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
-          <folding>
-            <element signature="e#7967#7968#0" expanded="true" />
-            <element signature="e#8013#8014#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -948,48 +899,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="1474" selection-start-line="1474" selection-end-line="1474" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="556" selection-start-line="556" selection-end-line="556" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="4439" column="34" selection-start-line="4439" selection-start-column="34" selection-end-line="4439" selection-end-column="34" />
-          <folding>
-            <element signature="e#175306#175307#0" expanded="true" />
-            <element signature="e#175349#175350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/instrument/TransformerManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-          <folding>
-            <element signature="e#2416#2417#0" expanded="true" />
-            <element signature="e#2460#2461#0" expanded="true" />
-            <element signature="e#4693#4694#0" expanded="true" />
-            <element signature="e#4741#4742#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="268" selection-start-line="268" selection-end-line="268" />
         </state>
       </provider>
     </entry>
@@ -1003,34 +916,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="68" selection-start-line="68" selection-end-line="68" />
-          <folding>
-            <element signature="e#1327#1328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractSequentialList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="238" selection-start-line="238" selection-end-line="238" />
-          <folding>
-            <element signature="e#8871#8872#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1048,21 +937,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="1470" selection-start-line="1470" selection-end-line="1470" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="338" selection-start-line="338" selection-end-line="338" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/instrument/TransformerManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="268" selection-start-line="268" selection-end-line="268" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="453" selection-start-line="453" selection-end-line="453" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractSequentialList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="238" selection-start-line="238" selection-end-line="238" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-265">
-          <caret line="579" column="6" lean-forward="true" selection-start-line="579" selection-start-column="6" selection-end-line="579" selection-end-column="6" />
+        <state relative-caret-position="119">
+          <caret line="304" column="18" lean-forward="true" selection-start-line="304" selection-start-column="18" selection-end-line="304" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
           <folding>
-            <element signature="e#9883#9884#0" expanded="true" />
-            <element signature="e#9921#9922#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="1005" column="22" selection-start-line="1005" selection-start-column="12" selection-end-line="1005" selection-end-column="22" />
+        <state relative-caret-position="45">
+          <caret line="844" column="2" selection-start-line="844" selection-start-column="2" selection-end-line="864" selection-end-column="7" />
           <folding>
             <element signature="e#11209#11210#0" expanded="true" />
             <element signature="e#11247#11248#0" expanded="true" />
@@ -1073,100 +1032,6 @@
             <element signature="e#26756#26757#0" expanded="true" />
             <element signature="e#26803#26804#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/darksouls/esaydatastruct/List/MyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="301" column="33" selection-start-line="301" selection-start-column="33" selection-end-line="301" selection-end-column="33" />
-          <folding>
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1038#1039#0" expanded="true" />
-            <element signature="e#1078#1079#0" expanded="true" />
-            <element signature="e#2248#2249#0" expanded="true" />
-            <element signature="e#2284#2285#0" expanded="true" />
-            <element signature="e#2864#2865#0" expanded="true" />
-            <element signature="e#2899#2900#0" expanded="true" />
-            <element signature="e#3400#3401#0" expanded="true" />
-            <element signature="e#3436#3437#0" expanded="true" />
-            <element signature="e#4100#4101#0" expanded="true" />
-            <element signature="e#4135#4136#0" expanded="true" />
-            <element signature="e#4605#4606#0" expanded="true" />
-            <element signature="e#4637#4638#0" expanded="true" />
-            <element signature="e#5117#5118#0" expanded="true" />
-            <element signature="e#5149#5150#0" expanded="true" />
-            <element signature="e#1877#1878#0" expanded="true" />
-            <element signature="e#1927#1928#0" expanded="true" />
-            <element signature="e#2185#2186#0" expanded="true" />
-            <element signature="e#2239#2240#0" expanded="true" />
-            <element signature="e#4898#4899#0" expanded="true" />
-            <element signature="e#4958#4959#0" expanded="true" />
-            <element signature="e#5955#5956#0" expanded="true" />
-            <element signature="e#5983#5984#0" expanded="true" />
-            <element signature="e#6976#6977#0" expanded="true" />
-            <element signature="e#7004#7005#0" expanded="true" />
-            <element signature="e#7361#7362#0" expanded="true" />
-            <element signature="e#7388#7389#0" expanded="true" />
-            <element signature="e#7741#7742#0" expanded="true" />
-            <element signature="e#7768#7769#0" expanded="true" />
-            <element signature="e#8028#8029#0" expanded="true" />
-            <element signature="e#8055#8056#0" expanded="true" />
-            <element signature="e#8313#8314#0" expanded="true" />
-            <element signature="e#8340#8341#0" expanded="true" />
-            <element signature="e#9246#9247#0" expanded="true" />
-            <element signature="e#9273#9274#0" expanded="true" />
-            <element signature="e#9543#9544#0" expanded="true" />
-            <element signature="e#9570#9571#0" expanded="true" />
-            <element signature="e#9838#9839#0" expanded="true" />
-            <element signature="e#9865#9866#0" expanded="true" />
-            <element signature="e#11057#11058#0" expanded="true" />
-            <element signature="e#11085#11086#0" expanded="true" />
-            <element signature="e#12274#12275#0" expanded="true" />
-            <element signature="e#12302#12303#0" expanded="true" />
-            <element signature="e#13557#13558#0" expanded="true" />
-            <element signature="e#13585#13586#0" expanded="true" />
-            <element signature="e#14094#14095#0" expanded="true" />
-            <element signature="e#14121#14122#0" expanded="true" />
-            <element signature="e#14533#14534#0" expanded="true" />
-            <element signature="e#14560#14561#0" expanded="true" />
-            <element signature="e#15077#15078#0" expanded="true" />
-            <element signature="e#15104#15105#0" expanded="true" />
-            <element signature="e#15542#15543#0" expanded="true" />
-            <element signature="e#15569#15570#0" expanded="true" />
-            <element signature="e#17120#17121#0" expanded="true" />
-            <element signature="e#17147#17148#0" expanded="true" />
-            <element signature="e#17186#17187#0" expanded="true" />
-            <element signature="e#17213#17214#0" expanded="true" />
-            <element signature="e#17559#17560#0" expanded="true" />
-            <element signature="e#17586#17587#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="462" column="31" lean-forward="true" selection-start-line="462" selection-start-column="31" selection-end-line="462" selection-end-column="31" />
         </state>
       </provider>
     </entry>

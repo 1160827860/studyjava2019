@@ -17,5 +17,9 @@ public class Main {
         List<Integer> b= new LinkedList();
         b.add(1);
         System.out.println(b.toString());
+        List<String> c = new ArrayList<>();
+        c.add("yt");
+        c.toString();
+
     }
 }
