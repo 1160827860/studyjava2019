@@ -1,7 +1,8 @@
 package com.proxy.dynamicproxy;
 
 
-import com.proxy.Moveable;
+import com.imooc.mode.proxy.Car;
+import com.imooc.mode.proxy.Moveable;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
@@ -13,7 +14,7 @@ public class LogHandler implements InvocationHandler {
     public LogHandler(Moveable car) {
         target = car;
     }
-    @Override
+
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
 
         System.out.println("日志启动了" + new Date());
