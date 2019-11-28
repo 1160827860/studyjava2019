@@ -33,3 +33,4 @@ README.md
 .idea/misc.xml
 .idea/uiDesigner.xml
 .idea/vcs.xml
+*.xml
