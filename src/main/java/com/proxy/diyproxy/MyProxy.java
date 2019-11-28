@@ -1,7 +1,6 @@
 package com.proxy.diyproxy;
 
-import com.imooc.mode.proxy.Car;
-import com.imooc.mode.proxy.Moveable;
+
 import org.apache.commons.io.FileUtils;
 
 import javax.tools.JavaCompiler;

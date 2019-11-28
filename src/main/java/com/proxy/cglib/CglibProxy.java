@@ -22,6 +22,7 @@ public class CglibProxy implements MethodInterceptor {
      * @return 对象
      * @throws Throwable
      */
+    @Override
     public Object intercept(Object o, Method method, Object[] objects, MethodProxy methodProxy) throws Throwable {
         System.out.println("日志开始");
         methodProxy.invokeSuper(o,objects);

@@ -1,7 +1,8 @@
 package com.proxy.diyproxy;
 
-import com.imooc.mode.proxy.Car;
-import com.imooc.mode.proxy.Moveable;
+
+import com.proxy.Car;
+import com.proxy.Moveable;
 
 public class Test {
     @org.junit.jupiter.api.Test

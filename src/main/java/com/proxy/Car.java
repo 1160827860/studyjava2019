@@ -3,7 +3,7 @@ package com.proxy;
 import java.util.Random;
 
 public class Car implements Moveable {
-
+    @Override
     public void move() {
 
         try {
