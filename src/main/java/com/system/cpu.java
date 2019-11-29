@@ -1,5 +1,4 @@
 package com.system;
-
 import java.util.LinkedList;
 
 /**
@@ -19,6 +18,7 @@ public class cpu {
      * external 为外存中的等待队列
      * queue 为内存中的队列
      */
+    static int time = 0;
     static int free_num = 1;
     static boolean[] free_statue;
     static int queue_length = 2;
@@ -45,6 +45,34 @@ public class cpu {
     public static void initcpu(int user_free_num,int user_queue_length) {
         free_num = user_free_num;
         queue_length = user_queue_length;
+    }
+    /**
+     * 找到等待队列中需要运行时间最短的进程
+     * @return
+     */
+    public static pcb findMinTotalTime(){
+    	pcb res = external.getFirst();
+    	for(pcb temp : external){
+    		if(res.getTotal_time() > temp.getTotal_time()){
+    			res = temp;
+    		}
+    	}
+    	return res;
+    }
+    /**
+     * 查找除了正在运行的进程内存中等待运行进程需要时间最大的进程
+     */
+    public static pcb findQueueMaxTotalTime(){
+    	pcb res = null;
+    	if(queue.size() > 1){
+    		res = queue.get(1);
+    		for(int i = 1;i < queue.size(); i++){
+        		if(res.getTotal_time() < queue.get(i).getTotal_time()){
+        			res = queue.get(i);
+        		}
+        	}
+    	}
+    	return res;
     }
 
 

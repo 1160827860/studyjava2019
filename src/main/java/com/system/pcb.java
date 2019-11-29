@@ -1,5 +1,4 @@
 package com.system;
-
 /**
  * @author 李正阳 17060208112
  * 定义进程信息
@@ -61,13 +60,19 @@ public class pcb {
         return res;
     }
 
+    public pcb(){}
     public pcb(String name, int arrive_time, int total_time, int priority) {
         this.name = name;
         this.arrive_time = arrive_time;
         this.total_time = total_time;
         this.priority = priority;
     }
-
+    public pcb(String name, int arrive_time, int total_time) {
+        this.name = name;
+        this.arrive_time = arrive_time;
+        this.total_time = total_time;
+     
+    }
     public String getName() {
         return name;
     }
