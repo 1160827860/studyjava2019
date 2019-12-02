@@ -1,4 +1,7 @@
-package com.system;
+package com.system.computer;
+
+import com.system.computer.pcb;
+
 import java.util.LinkedList;
 
 /**
@@ -18,12 +21,12 @@ public class cpu {
      * external 为外存中的等待队列
      * queue 为内存中的队列
      */
-    static int time = 0;
-    static int free_num = 1;
-    static boolean[] free_statue;
-    static int queue_length = 2;
-    static LinkedList<pcb> external = new LinkedList<pcb>();
-    static LinkedList<pcb> queue  = new LinkedList<pcb>();
+    public static int time = 0;
+    public static int free_num = 1;
+    public static boolean[] free_statue;
+    public static int queue_length = 2;
+    public static LinkedList<pcb> external = new LinkedList<pcb>();
+    public static LinkedList<pcb> queue  = new LinkedList<pcb>();
     static {
         /**
          * 初始化cpu的是否被占用的标志数组

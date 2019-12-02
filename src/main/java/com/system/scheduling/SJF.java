@@ -1,4 +1,8 @@
-package com.system;
+package com.system.scheduling;
+
+import com.system.control.Util;
+import com.system.computer.cpu;
+import com.system.computer.pcb;
 
 import java.util.LinkedList;
 
@@ -16,15 +20,15 @@ public class SJF {
 	    private static void finish( LinkedList<pcb> p){
 	        while (p.size() != 0 || cpu.external.size() != 0 ||  cpu.queue.size() != 0 ) {
 	            for (int i = 0; i < p.size(); i++) {
-	                pcb temp = p.get(i);
-	                /**
-	                 *模拟作业到达，进入等待队列
-	                 */
-	                if (temp.getArrive_time() == cpu.time) {
-	                    cpu.external.add(temp);
-	                    p.remove(temp);
-	                }
-	            }
+					pcb temp = p.get(i);
+					/**
+					 *模拟作业到达，进入等待队列
+					 */
+					if (temp.getArrive_time() == cpu.time) {
+						cpu.external.add(temp);
+						p.remove(temp);
+					}
+				}
 	            while (cpu.external.size() != 0){
 	            	pcb temp = cpu.findMinTotalTime();
 	            	
@@ -46,7 +50,8 @@ public class SJF {
 	                    cpu.external.remove(temp);
 	                }else {
 	                	/**
-	                	 * 拿到内存中最大时间进程
+	                	 * 拿到内存中最大时间进程，然后从内存队列找到需要时间最短的
+						 * 进入内存。
 	                	 */
 	                	pcb temp1 = cpu.findQueueMaxTotalTime();
 	                	if(temp.getTotal_time() < temp1.getTotal_time()){
@@ -57,7 +62,6 @@ public class SJF {
 	                	}else{
 	                		break;
 	                	}
-	                    
 	                }
 	            }
 	            /**
@@ -68,6 +72,7 @@ public class SJF {
 	             /**
 	              * 任务完成，从内存中删除任务记录，完成时间，并且计算周转
 	              * 时间和带权周转时间
+				  * 然后将内存队列中的此进程删除，并且添加到进程完成队列中
 	              */
 	            cpu.time ++;
 	            if (head.getTotal_time() == head.getFinish_level()) {
@@ -76,7 +81,6 @@ public class SJF {
 	                head.setAuthorized_turnaround_time(head.getCycling_time() / head.getTotal_time());
 	                res.add(cpu.queue.removeFirst());
 	            }
-	            
 	        }
 	    }
 }

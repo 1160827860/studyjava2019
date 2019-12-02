@@ -1,4 +1,11 @@
-package com.system;
+package com.system.control;
+
+import com.system.computer.cpu;
+import com.system.computer.pcb;
+import com.system.scheduling.FCFS;
+import com.system.scheduling.Level;
+import com.system.scheduling.ProcessScheduling;
+import com.system.scheduling.SJF;
 
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -24,10 +31,14 @@ public class Util {
         System.out.println("C：高优先级优先");
         System.out.println("D：时间片轮转");
         switch(in.next()){
-        	case "A":FCFS.start();break;
-        	case "B":SJF.start();break;
-        	case "C":ProcessScheduling.start();break;
-        	case "D":ProcessScheduling.start();break;
+        	case "A":
+                FCFS.start();break;
+        	case "B":
+                SJF.start();break;
+        	case "C":
+                Level.start();break;
+        	case "D":
+                ProcessScheduling.start();break;
         	default:System.out.println("选择错误!");
         }
 	}

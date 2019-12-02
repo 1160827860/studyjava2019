@@ -1,4 +1,4 @@
-package com.system;
+package com.system.computer;
 /**
  * @author 李正阳 17060208112
  * 定义进程信息
@@ -15,16 +15,16 @@ public class pcb {
      * @param authorized_turnaround_time 带权周转时间
      * @param  priority 优先级
      */
-    String name;
-    int arrive_time;
-    int total_time;
-    int start_time;
-    int finish_time;
-    int cycling_time;
-    int into_time;
-    int authorized_turnaround_time;
-    int priority;
-    int finish_level = 0;
+    public String name;
+    public int arrive_time;
+    public int total_time;
+    public int start_time;
+    public  int finish_time;
+    public int cycling_time;
+    public int into_time;
+    public  int authorized_turnaround_time;
+    public int priority;
+    public int finish_level = 0;
 
     public int getInto_time() {
         return into_time;

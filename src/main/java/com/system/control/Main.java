@@ -1,4 +1,4 @@
-package com.system;
+package com.system.control;
 
 public class Main {
 
