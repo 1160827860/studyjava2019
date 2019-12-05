@@ -1,6 +1,6 @@
-package com.system.computer;
+package com.system.processs.computer;
 
-import com.system.computer.pcb;
+
 
 import java.util.LinkedList;
 
@@ -68,6 +68,7 @@ public class cpu {
     public static pcb findQueueMaxTotalTime(){
     	pcb res = null;
     	if(queue.size() > 1){
+
     		res = queue.get(1);
     		for(int i = 1;i < queue.size(); i++){
         		if(res.getTotal_time() < queue.get(i).getTotal_time()){
@@ -77,7 +78,4 @@ public class cpu {
     	}
     	return res;
     }
-
-
-
 }

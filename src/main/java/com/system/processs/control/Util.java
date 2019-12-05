@@ -1,11 +1,12 @@
-package com.system.control;
+package com.system.processs.control;
 
-import com.system.computer.cpu;
-import com.system.computer.pcb;
-import com.system.scheduling.FCFS;
-import com.system.scheduling.Level;
-import com.system.scheduling.ProcessScheduling;
-import com.system.scheduling.SJF;
+
+import com.system.processs.computer.cpu;
+import com.system.processs.computer.pcb;
+import com.system.processs.scheduling.FCFS;
+import com.system.processs.scheduling.Level;
+import com.system.processs.scheduling.ProcessScheduling;
+import com.system.processs.scheduling.SJF;
 
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -16,6 +17,7 @@ public class Util {
 	 * @param res
 	 */
 	public static void print(LinkedList<pcb> res){
+
 		while(!res.isEmpty()){
 			System.out.println(res.removeFirst().toString());
 		}

@@ -1,4 +1,4 @@
-package com.system.control;
+package com.system.processs.control;
 
 public class Main {
 

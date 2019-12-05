@@ -1,8 +1,8 @@
-package com.system.scheduling;
+package com.system.processs.scheduling;
 
-import com.system.control.Util;
-import com.system.computer.cpu;
-import com.system.computer.pcb;
+import com.system.processs.control.Util;
+import com.system.processs.computer.cpu;
+import com.system.processs.computer.pcb;
 
 import java.util.LinkedList;
 

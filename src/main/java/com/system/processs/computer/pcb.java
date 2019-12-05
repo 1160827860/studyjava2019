@@ -1,4 +1,4 @@
-package com.system.computer;
+package com.system.processs.computer;
 /**
  * @author 李正阳 17060208112
  * 定义进程信息
@@ -20,11 +20,19 @@ public class pcb {
     public int total_time;
     public int start_time;
     public  int finish_time;
-    public int cycling_time;
+    public double cycling_time;
     public int into_time;
-    public  int authorized_turnaround_time;
+    public  double authorized_turnaround_time;
     public int priority;
     public int finish_level = 0;
+
+    public double getAuthorized_turnaround_time() {
+        return authorized_turnaround_time;
+    }
+
+    public void setAuthorized_turnaround_time(double authorized_turnaround_time) {
+        this.authorized_turnaround_time = authorized_turnaround_time;
+    }
 
     public int getInto_time() {
         return into_time;
@@ -48,6 +56,14 @@ public class pcb {
 
     public void setFinish_level(int finish_level) {
         this.finish_level = finish_level;
+    }
+
+    public double getCycling_time() {
+        return cycling_time;
+    }
+
+    public void setCycling_time(double cycling_time) {
+        this.cycling_time = cycling_time;
     }
 
     @Override
@@ -113,17 +129,12 @@ public class pcb {
         this.finish_time = finish_time;
     }
 
-    public int getCycling_time() {
-        return cycling_time;
-    }
+
 
     public void setCycling_time(int cycling_time) {
         this.cycling_time = cycling_time;
     }
 
-    public int getAuthorized_turnaround_time() {
-        return authorized_turnaround_time;
-    }
 
     public void setAuthorized_turnaround_time(int authorized_turnaround_time) {
         this.authorized_turnaround_time = authorized_turnaround_time;
