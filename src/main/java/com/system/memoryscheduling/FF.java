@@ -1,6 +1,6 @@
 package com.system.memoryscheduling;
 
-import javafx.concurrent.Worker;
+
 
 /**
  * @author 李正阳  17060208112
@@ -12,6 +12,10 @@ public class FF {
         finish();
         Memory.print();
     }
+
+    /**
+     * 根据地址从小到大排序
+     */
     private static void sortByStart(){
         for (int i = 0; i < Memory.table.size(); i++) {
             for(int j = i + 1;j < Memory.table.size() ; j++){
@@ -25,8 +29,11 @@ public class FF {
                 }
             }
         }
-
     }
+
+    /**
+     * 首次适应算法的核心代码
+     */
     public static void finish(){
         /**
          * 调取用户输出的命令，一条一条的执行
@@ -42,7 +49,6 @@ public class FF {
                  */
                 for(int j = 0;j <Memory.table.size() ; j++){
                     Partition temp = Memory.table.get(j);
-//                for(Partition j: Memory.table) {
                     /**
                      * 若碰见空闲分区，分为刚好满足和还剩下有空间
                      */

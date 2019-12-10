@@ -9,6 +9,10 @@ public class OA {
         finish();
         Memory.print();
     }
+
+    /**
+     * 按照分区的大小排序，从小到大排序
+     */
     private static void sortBySize(){
         for (int i = 0; i < Memory.table.size(); i++) {
             for(int j = i + 1;j < Memory.table.size() ; j++){
@@ -22,8 +26,11 @@ public class OA {
                 }
             }
         }
-
     }
+
+    /**
+     * 最佳适应算法的核心代码
+     */
     public static void finish(){
         /**
          * 调取用户输出的命令，一条一条的执行
@@ -39,7 +46,6 @@ public class OA {
                  */
                 for(int j = 0;j <Memory.table.size() ; j++){
                     Partition temp = Memory.table.get(j);
-//                for(Partition j: Memory.table) {
                     /**
                      * 若碰见空闲分区，分为刚好满足和还剩下有空间
                      */
@@ -79,8 +85,10 @@ public class OA {
             }else {
                 Util.recoverMemory(i);
             }
+            /**
+             * 对内存分区进行排序
+             */
             sortBySize();
         }
-
     }
 }

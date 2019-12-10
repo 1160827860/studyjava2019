@@ -10,6 +10,10 @@ public class ADAPTS {
         finish();
         Memory.print();
     }
+
+    /**
+     * 按照地址递增顺序排序
+     */
     private static void sortByStart(){
         for (int i = 0; i < Memory.table.size(); i++) {
             for(int j = i + 1;j < Memory.table.size() ; j++){
@@ -23,14 +27,16 @@ public class ADAPTS {
                 }
             }
         }
-
     }
+
+    /**
+     * 核心代码
+     */
     public static void finish(){
         /**
          * 调取用户输出的命令，一条一条的执行
          */
         for(Order i : Memory.orders){
-
             int index = 0;
             int num = 0;
             boolean f = false;
@@ -100,7 +106,6 @@ public class ADAPTS {
             }else {
                 Util.recoverMemory(i);
             }
-
             sortByStart();
         }
 

@@ -10,6 +10,10 @@ public class WF {
         finish();
         Memory.print();
     }
+
+    /**
+     * 内存空闲区从大到小分配
+     */
     private static void sortByBigSize(){
         for (int i = 0; i < Memory.table.size(); i++) {
             for(int j = i + 1;j < Memory.table.size() ; j++){
@@ -23,7 +27,6 @@ public class WF {
                 }
             }
         }
-
     }
     public static void finish(){
         /**
